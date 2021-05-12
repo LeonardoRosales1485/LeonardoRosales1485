@@ -34,6 +34,12 @@
 <p><a href="https://ta-te-ti-en-react-con-hooks.vercel.app/">TicTacToe Game</a> (It's in spanish for now!) which I created following <a href="https://reactjs.org/tutorial/tutorial.html?">the official React Tutorial</a> but instead of using functional classes I converted it to functional hooks.</p>
 </hr>
 <img src="https://user-images.githubusercontent.com/72583235/117825198-7e840180-b245-11eb-9199-785898969d67.gif" alt="" align="center"/>
+<p><a href="https://pi-dogs-front.vercel.app/">My personal Project</a> I had to create at <a href="https://soyhenry.com/">Henry</a> (coding bootcamp) with all the technologies I learned.</p>
+</hr>
+<img src="https://user-images.githubusercontent.com/72583235/118022655-f2500800-b332-11eb-8b30-8d8cf1516c78.gif" alt="" align="center"/>
+
+
+
 
 
 <div align="center"><h1>Currently working on</h1></div>
