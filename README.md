@@ -13,7 +13,7 @@
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img width="5%" align="center" height="50px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg">
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-  <img width="6%" align="center" src="https://cdn.worldvectorlogo.com/logos/css-5.svg">
+  <img width="6%" align="center" src="https://cdn.worldvectorlogo.com/logos/css-.svg">
   <img width="5%" align="center" height="50px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
