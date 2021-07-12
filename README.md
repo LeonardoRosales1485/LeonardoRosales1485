@@ -44,7 +44,7 @@
 
 <div align="center"><h1>Currently working on</h1></div>
 
-Group project at <a href="https://soyhenry.com/">Henry</a> (coding bootcamp) (Preview gif coming soon!)
+I'm working as Project Manager at <a href="https://www.linkedin.com/company/sparksolutions2/mycompany/">Spark Solutions</a>!
 
 <div align="center"><h1>How to contact me</h1></div>
 
