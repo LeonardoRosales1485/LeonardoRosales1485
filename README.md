@@ -44,7 +44,7 @@
 
 <div align="center"><h1>Currently working on</h1></div>
 
-I'm working as Product Manager at <strike><a href="https://www.linkedin.com/company/sparksolutions2">Spark Solutions</a>!</strike> (tbd this Monday!)
+I'm working as Product Manager at <a href="https://www.dispatchsss.co/">Disptach SSS</a>! 
 
 <div align="center"><h1>How to contact me</h1></div>
 
