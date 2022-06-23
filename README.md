@@ -48,5 +48,5 @@ I'm working as Product Manager at <a href="https://www.dispatchsss.co/">Disptach
 
 <div align="center"><h1>How to contact me</h1></div>
 
-<p align="center"><a href="https://www.linkedin.com/in/lrosales-leo/">LinkedIn</a> | <a href="https://wa.me/+5491125467304?text=Hello!%20I%20found%20your%20number%20in%20your%20GitHub%20Profile">WhatsApp</a> | <a href="mailTo:leonardorosales1485@gmail.com">leonardorosales1485@gmail.com</a> | <a href="https://drive.google.com/uc?export=download&id=1Qmfy7fygi1jdCAir4NY01aLj73mo4oNzngR2tRHe5zI">Resume</a>  </p>
+<p align="center"><a href="https://www.linkedin.com/in/lrosales-leo/">LinkedIn</a> | <a href="https://wa.me/+5491122599755?text=Hello!%20I%20found%20your%20number%20in%20your%20GitHub%20Profile">WhatsApp</a> | <a href="mailTo:leonardorosales1485@gmail.com">leonardorosales1485@gmail.com</a> | <a href="https://drive.google.com/uc?export=download&id=1Qmfy7fygi1jdCAir4NY01aLj73mo4oNzngR2tRHe5zI">Resume</a>  </p>
 
