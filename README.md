@@ -25,7 +25,7 @@
 
 <p align="center"> React | Redux | Node.js | Express | HTML5 | CSS3 | Javascript | Postgres | Sequelize | Postman | Git </p>
 
-I'm working as Functional Analyst at <a href="https://www.blueopendata.com.ar/">Blue Open Data</a>! 
+I'm working as Functional Analyst at <a href="https://www.blueopendata.com/">Blue Open Data</a>! 
 
 <div align="center"><h1>How to contact me</h1></div>
 
